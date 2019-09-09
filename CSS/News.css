@@ -1,0 +1,16 @@
+body{
+    background-color: gray
+}
+.news{
+    width: 60%;
+    font-size: 20px;
+    background-color: white;
+    height: auto;
+}
+.news h1{
+    text-align: center;
+    color: brown
+}
+.news img{
+    width: 100%
+}
