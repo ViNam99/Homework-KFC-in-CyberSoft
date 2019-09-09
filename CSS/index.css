@@ -1,0 +1,48 @@
+/* Global */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header */
+.header img {
+    width: 100px;
+}
+/* title */
+.title h1{
+    background-color: red;
+    color: white;
+}
+/* navbar */
+.navbar {
+    margin-top: 15px
+}
+.navbar ul li {
+    margin-top: 10px;
+}
+.navbar ul li a {
+    font-size: 20px
+}
+/* intro */
+.intro {
+    width: 100%;
+    height: 400px;
+    margin-top: 25px;
+    background-color: brown
+}
+.intro h1{
+    text-align: center;
+    color: white;
+    font-size: 40px
+}
+.intro span{
+    font-size: 30px;
+    margin-top: 25px;
+    text-align: justify
+}
+.intro__paragraphColorWhite{
+    color: white
+}
+.intro__paragraphColorBlack{
+    color:black
+}
